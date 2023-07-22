@@ -1,0 +1,13 @@
+/* 
+Style.css is the externl stylesheet to index.html
+*/
+select{
+    color:tan;
+    font-size: 30px;    }
+.headings{
+    color:pink;
+    background-color:ivory;
+    font-size:20px;    
+    }
+
+
